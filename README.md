@@ -16,3 +16,16 @@ Here you will create an App that will allow access to your Honeywell Lyric devic
 
 ### 2.3)Name App
 <img src='/images/appName.jpg'/>
+
+### 2.4)App created get Keys
+<img src='/images/appCreated.jpg'/>
+
+Copy keys to Node Red
+<img src='/images/nodeRedKeys.jpg'/>
+
+### 2.5)Authorization API
+<img src='/images/authAPIs.jpg'/>
+
+### 2.6)Request access code
+<img src='/images/makeRequest.jpg'/>
+
