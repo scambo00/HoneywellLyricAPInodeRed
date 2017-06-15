@@ -5,18 +5,14 @@ This will detail step by step how to
 ## 1)Wink Node Red
 Import the following flow into Node Red
 ## 2)Honeywell Developer Site
-Import the following flow into Node Red
+Here you will create an App that will allow access to your Honeywell Lyric devices through there API.
+[Honeywell Developer](https://developer.honeywell.com/):
+
 ### 2.1)Create account
-You must create the account with the same Google email that you use to control your Google Home.
-* Create an account on [Honeywell Developer](https://developer.honeywell.com/):
+<img src='/images/signup.jpg'/>
 
 ### 2.2)Create App
+<img src='/images/createApp.jpg/>
 
-<img src='/images/createAgent2.png'/>
-On the next screen, we enter in our agent’s details, including:
-* Name: This is just for your own reference You could call the App anything you would like, (I chose WinkNodeRed).
-
-### 2.3)Import Agent
-
-
-<img src='/images/importAgent.jpg'/>
+### 2.3)Name App
+<img src='/images/nameApp.jpg'/>
