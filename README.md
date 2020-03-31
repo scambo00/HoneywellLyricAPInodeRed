@@ -1,5 +1,5 @@
 # As of 01/01/2020 this code is no longer supported
-# See X for updated code that supports intergrating the Honeywell Lyric API into a node red flow 
+# See NodeRed-Honeywell-Lyric-API (https://github.com/scambo00/NodeRed-Honeywell-Lyric-API) for updated code that supports intergrating the Honeywell Lyric API into a node red flow 
 # HoneywellLyricAPInodeRed
 Access hoenywell lyric API with node red
 # Integrating Wink Node Red and Honey Lyric API
